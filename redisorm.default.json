@@ -1,0 +1,12 @@
+{
+    "default": {
+     "host": "redis-17830.c44.us-east-1-2.ec2.cloud.redislabs.com",
+     "port": 17830,
+     "connectTimeout": 1000,
+     "db": 0,
+     "password":"B1GsZOjEAiimRg2Z1xfu8s4qYuSv1QX2",
+     "showFriendlyErrorStack": false,
+     "trackRedisInfo": false,
+     "maxConnectRetry": 5
+   }
+ }
